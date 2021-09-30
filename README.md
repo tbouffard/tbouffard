@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  :musical_note: My profile picture comes from the <a href="http://www.johanna-vaude.com/totalite-remix/">Totalité Remix</a> short movie :movie_camera:
+  :musical_note: My profile avatar comes from the <a href="https://www.johanna-vaude.com/totalite-remix/">Totalité Remix</a> short movie by <a href="https://twitter.com/JohannaVaude">Johanna Vaude</a> :movie_camera:
 </p>
 
 <hr />
